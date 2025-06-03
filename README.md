@@ -1,5 +1,5 @@
 # Machine Learning Techniques
-This repository contains 2 projects from a Data Science and Machine Learning Masters Coursework:
+This repository contains 2 projects from the NUS Data Science and Machine Learning Masters Coursework:
 
 DSA5101 which is a module about Introduction to Big Data in Industry
 The DSA5101 project demonstrates skills/principles as follows: 
